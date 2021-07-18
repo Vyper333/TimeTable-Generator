@@ -1,0 +1,12 @@
+c:\users\maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\bin\Debug\Time-Table Generator.exe
+c:\users\maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\bin\Debug\Time-Table Generator.pdb
+c:\users\maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\obj\x86\Debug\Time_Table_Generator.Properties.Resources.resources
+c:\users\maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\obj\x86\Debug\Time-Table Generator.csproj.GenerateResource.Cache
+c:\users\maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\obj\x86\Debug\Time-Table Generator.exe
+c:\users\maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\obj\x86\Debug\Time-Table Generator.pdb
+C:\Users\Maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\obj\x86\Debug\Time-Table Generator.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\obj\x86\Debug\Time_Table_Generator.AllUserControl.UC_DisplayTT.resources
+C:\Users\Maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\obj\x86\Debug\Time_Table_Generator.FacultyDashboard.resources
+C:\Users\Maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\obj\x86\Debug\Time_Table_Generator.Login.resources
+C:\Users\Maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\obj\x86\Debug\Time_Table_Generator.Admin_Dashboard.resources
+C:\Users\Maria\documents\visual studio 2010\Projects\Time-Table Generator\Time-Table Generator\obj\x86\Debug\Time_Table_Generator.Admin_Login.resources
